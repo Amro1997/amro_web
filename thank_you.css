@@ -1,0 +1,107 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(burj.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	
+	
+	
+	
+}
+
+.login-page{
+	width: 360px;
+	padding: 10% 0 0;
+	margin: auto;
+	
+	}
+	
+.form{
+	position: relative;
+	z-index: 1;
+	background: rgba(7,49,195,0.8);
+	max-width: 360px;
+	margin: 0 auto 100px;
+	padding: 45px;
+	text-align: left;
+	  
+	
+	
+	
+}
+
+
+.form h3{
+	
+	font-family: "Roboto", sans-serif;
+	font-size: 18px;
+	color: #ffffff;
+	font-weight: bold;
+	outline: 1;
+	width: 100%;
+	
+
+	text-align: center;
+	
+	margin: 25px 50px 75px 1px;
+	
+	
+	
+	
+	
+}
+
+.form pp{
+	
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+	 
+	
+	
+	
+	
+	
+}
+
+.form h4{
+	
+	font-family: "Roboto", sans-serif;
+	font-size: 18px;
+	
+	
+	color: #ffffff;
+	font-weight: bold;
+	outline: 1;
+	width: 100%;
+	
+	margin: 25px 50px 75px 1px;
+	 text-align: center;
+	
+	
+	
+	
+	
+}
+
+.form button{
+	
+	font-family: "Roboto", sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #4CAF50;
+	width: 100%;
+	border: 0;
+	padding: 15px;
+	color: #FFFFFF;
+	font-size: 14px;
+	cursor: pointer;
+        margin-bottom: 0pt; 
+	 
+	
+	
+	
+}
+
+
